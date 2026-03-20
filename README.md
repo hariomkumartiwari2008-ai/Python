@@ -32,6 +32,7 @@ Python id="py4"
 Copy code
 for i in range(5):
     print(i)
+    
 🧱 Functions
 Python id="py5"
 Copy code
@@ -57,6 +58,7 @@ Pandas → Data analysis
 Matplotlib → Data visualization
 Scikit-learn → Machine learning
 Flask / Django → Web frameworks
+
 ⚙️ Advantages
 Easy to learn and use
 Versatile and powerful
